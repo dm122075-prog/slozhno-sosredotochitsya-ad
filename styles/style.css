@@ -2,6 +2,7 @@
 
 .page {
   background-color: var(--page-bg-color);
+  background-attachment: fixed;
 }
 
 .header {

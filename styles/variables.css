@@ -5,8 +5,8 @@
 
 :root {
   --page-bg-image: url(../images/cover-image-dark.png);
-  --page-bg-color: #000028;
-  --accent-color: #FF0070;
-  --title-color: #DB00FF;
-  --card-text: #F1B2CE;
+  --page-bg-color: rgba(0, 0, 40, 1);
+  --accent-color: rgba(255, 0, 112, 1);
+  --title-color: rgba(219, 0, 255, 1);
+  --card-text: rgba(241, 178, 206, 1);
 }
